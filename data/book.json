@@ -1,1 +1,14 @@
-[{"guid":"3c813a81-3ab0-47ff-8f07-a861dfa31e09","title":"First book","author":"Lorem Ipsum","pubYear":2020},{"guid":"3c813a81-3ab0-47ff-8f07-a861dfa31e02","title":"test2","author":"ttt","pubYear":2012},{"guid":"bd343e85-854b-41fd-9da6-ffb73ea6842f","title":"First book","author":"Lorem Ipsum","pubYear":2021}]
+[
+    {
+        "guid": "3c813a81-3ab0-47ff-8f07-a861dfa31e09",
+        "title": "Beginning Node.js",
+        "author": "Basarat Ali Syed",
+        "pubYear": 2014
+    },
+    {
+        "guid": "3c813a81-3ab0-47ff-8f07-a861dfa31e02",
+        "title": "Web Development with Node and Express: Leveraging the",
+        "author": "Ethan Brown",
+        "pubYear": 2014
+    }
+]
